@@ -6,7 +6,7 @@ li {
 
 ol {
     list-style: none;
-    width: 500px;
+    width: 540px;
     margin: 36px auto 0 auto;
     padding: 0;
 }
@@ -16,13 +16,16 @@ h1 {
     color: rgb(71, 62, 62);
     margin: 12px 0px;
 }
+#description {
+    margin-bottom: 36px;
+}
 
 a {
     background-color: rgb(167, 1, 78);
     color: white;
     border-radius: 4px;
     font-size: 24px;
-    padding: 12px 48px;
+    padding: 9px 48px;
     border: 1px solid rgb(167, 1, 78);
 }
 
